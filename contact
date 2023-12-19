@@ -1,0 +1,64 @@
+ <html>
+      <head>
+	     <title> MA Toursim</title>
+		  <meta "E:\Toursim Management\image\fb-images"charset="utf-8">
+		  <meta name="viewport" content="width=device-width, initial-scale=1">
+		  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		  <link rel="stylesheet" href="E:\Toursim Management\Ma toursim.css">
+	      <link rel="preconnect" href="https://fonts.googleapis.com">
+		  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Arimo&family=Corinthia:wght@700&family=Dancing+Script:wght@600&family=Domine&family=Heebo:wght@500&family=Kaushan+Script&family=Playball&family=Playfair+Display&family=Questrial&family=Quicksand:wght@300&family=Readex+Pro&family=Righteous&family=Roboto+Slab&display=swap" rel="stylesheet"> 
+      
+	  </head>
+	  <body>
+	     <nav id="nav1"class="navbar navbar-inverse navbar-fixed">
+				<div class="container-fluid">
+					<div class="collapse navbar-collapse" id="#mynavbar">
+						<ul class="nav navbar-nav">
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#"><img src="E:\Toursim Management\image\174855.png" height="20px" width="20px"> </a></li>
+							<li><a href="#"><img src="E:\Toursim Management\Image\5968764.png"height="20px" width="20px"> </a></li>
+							<li><a href="#"><img src="E:\Toursim Management\image\YouTube_full-color_icon_(2017).svg.png" height="20px" width="20px"></a></li>
+							<li><a href="#"><img src="E:\Toursim Management\image\pngtree-twitter-social-media-round-icon-png-image_6315985.png" height="20px" width="20px"></a></li>
+							<li><a href="#">+919688592621</a></li>
+							
+						</ul>
+					</div>
+				</div>	
+			</nav>
+			
+		  <nav id="navhead2"class="navbar">
+			    <div class="container-fluid">
+				   <div class="navbar-header">
+						<div>
+						 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+								<span id="span" class="icon-bar"></span>
+								<span id="span"class="icon-bar"></span>
+								<span id="span" class="icon-bar"></span>		
+						 </button>
+					 </div>
+					 <a class="navbar-brand" href="#"> <img class="imgmar" src="E:\Toursim Management\Image\ma-toursim.png"> </a>
+				   </div>
+				   <div class="collapse navbar-collapse" id="mynavbar">
+				       <ul id="ul1" class="nav navbar-nav">
+					       <li ><a id="navbar"  href="E:\Toursim Management\home.html">Home</a></li>
+						   <li class="active"><a id="navbar"href="E:\Toursim Management\GroupTour.html">Group Tour</a></li>
+						   <li ><a id="navbar"href="E:\Toursim Management\Package.html">Packages</a></li>
+						   <li><a id="navbar"href="E:\Toursim Management\about.html">About</a></li>
+						   <li><a id="navbar"href="#">Contact</a></li>
+					   </ul>
+					   <ul class="nav navbar-nav navbar-right">
+					       <li><a id="reg" href="E:\Toursim Management\signup.html"><span class="glyphicon glyphicon-user"></span>Sing up</a></li>
+					   </ul>
+				   </div>
+				</div>
+		  </nav>
+			  
+	  </body>
+ </html>
